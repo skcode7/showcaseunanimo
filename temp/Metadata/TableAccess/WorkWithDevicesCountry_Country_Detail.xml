@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="name" name="WorkWithDevicesCountry_Country_Detail">
+  <Table name="Country" />
+</Dependencies>
